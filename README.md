@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @canaan-wang
-- 👀 I’m interested in GO、MySQL、Regis、Kubernetes
-- 🌱 I’m currently learning GO
+- 👀 I’m interested in Golang、MySQL、Regis、Kubernetes
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on API-Service
 - 📫 How to reach me wechat-17735690520
 
