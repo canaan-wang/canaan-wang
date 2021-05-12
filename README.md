@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @canaan-wang
-- 👀 I’m interested in Golang、MySQL、Redis、Kubernetes
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on API-Service
-- 📫 How to reach me wechat-17735690520
+- Hi,I'm canaan.wang
+- I’m interested in Golang、MySQL、Redis、Kubernetes
+-  I’m currently learning Golang
+-  I’m looking to collaborate on API-Service
+-  My wechat is 17735690520
 
 <!---
 canaan-wang/canaan-wang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
